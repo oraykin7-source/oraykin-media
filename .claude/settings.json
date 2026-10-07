@@ -1,0 +1,42 @@
+{
+  "permissions": {
+    "allow": [
+      "Read",
+      "Edit",
+      "Write",
+      "Glob",
+      "Grep",
+      "WebSearch",
+      "WebFetch",
+      "Bash(python3:*)",
+      "Bash(pip3 install:*)",
+      "Bash(ls:*)",
+      "Bash(mkdir:*)",
+      "Bash(cp:*)",
+      "Bash(mv:*)",
+      "Bash(git status:*)",
+      "Bash(git diff:*)",
+      "Bash(git log:*)",
+      "Bash(git add:*)",
+      "Bash(git commit:*)",
+      "Bash(git pull:*)",
+      "Bash(git push:*)",
+      "mcp__metricool__getBrandSettings",
+      "mcp__metricool__getScheduledPosts",
+      "mcp__metricool__getBestTimeToPostByNetwork",
+      "mcp__metricool__getAnalyticsAvailableMetrics",
+      "mcp__metricool__getAnalyticsDataByMetrics"
+    ],
+    "ask": [
+      "mcp__metricool__createScheduledPost",
+      "mcp__metricool__updateScheduledPost",
+      "mcp__metricool__createScheduledPostForReview",
+      "mcp__metricool__sendScheduledPostForReview"
+    ],
+    "deny": [
+      "Bash(rm -rf:*)",
+      "Bash(git push --force:*)",
+      "Bash(git push -f:*)"
+    ]
+  }
+}

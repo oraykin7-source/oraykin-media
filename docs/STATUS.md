@@ -48,6 +48,7 @@
 - **חומר מקומי** (`incoming/`, לא בריפו): morning, morning13, mirage, desk (רקעי Malon), graffiti, reel_morning. השיפוץ: `~/Documents/Projects/home-renovation`.
 
 ## החלטות קבועות
+- **סגנון חזותי (16.10):** בלי מסגרת לבנה. 4:5 מלא. G, E, K10 עד K14 עובדו מחדש; K01 עד K05, D, R, N, C הישנים עדיין עם מסגרת (לעבד מחדש רק אם עולים שוב).
 - ביו: "אוכל טוב, פרחים במרפסת ומקומות ששווה לנסוע אליהם" / "Good food, balcony flowers & places worth the trip 🍽️🌸✈️".
 - Highlights: הבית, טיולים, אוכל, פרחים, עם שערי hl_*. 
 - אלעד: רק בלי פנים, בלי קרדיט. Reel השיפוץ בוטל כרגע.
